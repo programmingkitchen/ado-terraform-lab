@@ -12,7 +12,7 @@ Deploy Azure infrastructure using ADO and Terraform.
 | VER  | DETAILS                                                     |
 | -----|------------------------------------------------------------ |
 | v0.0 | Start                                                       |
-| v0.1 | TBD                                                         |
+| v0.1 | Testing manually complete                                   |
 | v0.2 | TBD                                                         |
 
 
@@ -26,18 +26,15 @@ Deploy Azure infrastructure using ADO and Terraform.
   5. Linux VM (Standard_B1s)
 
 
-## Additional
+## Misc
 - State sorted in a Storage Account
 - Credentials from the Storage account and a Service Principal (with secret)
 
-
 # TODO
+- Change the Resource Group for the Storage Account (for state) to be somthing other than the RG 
+named UdacityProject3.1
 
-
-# Notes
-
-
-# Issues
+# Notes/Issues
 
 
 # Procedure
