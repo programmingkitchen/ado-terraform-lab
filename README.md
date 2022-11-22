@@ -3,6 +3,13 @@
 # Overview
 Deploy Azure infrastructure using ADO and Terraform. 
 
+- Source is in Git. 
+
+```
+$ git remote -v
+origin  git@github.com:programmingkitchen/ado-terraform-lab.git (fetch)
+origin  git@github.com:programmingkitchen/ado-terraform-lab.git (push)
+```
 
 ## Architecture
 
